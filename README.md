@@ -4,6 +4,8 @@
 
 <img align="center" src="https://cdk-stats.vercel.app/api?username=randyridgley"/>
 
+<a href="https://www.linkedin.com/in/randyridgley/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 You can see my main projects below:
 
 <!--
