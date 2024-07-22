@@ -1,9 +1,10 @@
 ### Principal Solutions Architect interested in the AWS CDK, Data Engineering, and IoT
 
-[![randyridgley's Github stats](https://github-readme-stats.vercel.app/api?username=randyridgley)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://cdk-stats.vercel.app/api?username=randyridgley"/>
-
+[![randyridgley's Github stats](https://github-readme-stats.vercel.app/api?username=randyridgley)](https://github.com/randyridgley/github-readme-stats)
+<p align="left"> 
+  <img alt="AWS CDK Contributor" height="150px" src="https://cdk-stats.vercel.app/api?username=randyridgley" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyridgley&layout=compact&show_icons=true" />
+</p>
 <a href="https://www.linkedin.com/in/randyridgley/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 You can see my main projects below:
