@@ -2,11 +2,12 @@
 
 <p align="left"> 
   <img alt="AWS CDK Contributor" height="130px" src="https://cdk-stats.vercel.app/api?username=randyridgley" />
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyridgley&layout=compact&show_icons=true" />
-  <img alt="Stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=randyridgley&layout=compact&show_icons=true" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randyridgley&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="Stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=randyridgley&layout=compact&show_icons=true&theme=tokyonight" />
 </p>
-<a href="https://www.linkedin.com/in/randyridgley/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/randyridgley/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 You can see my main projects below:
 
 <!--
