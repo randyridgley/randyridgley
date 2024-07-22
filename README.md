@@ -2,6 +2,8 @@
 
 [![randyridgley's Github stats](https://github-readme-stats.vercel.app/api?username=randyridgley)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="center" src="https://cdk-stats.vercel.app/api?username=randyridgley"/>
+
 You can see my main projects below:
 
 <!--
